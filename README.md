@@ -1,6 +1,8 @@
 <img src="https://loopback.io/images/branding/logo/blue/loopback.svg" alt="loopback"	title="loopback" width="50%" />
 <img src="./assets/logo-mongodb.png" alt="mongo"	title="mongo" width="50%" />
+
 ![npm](https://img.shields.io/npm/v/npm.svg)
+
 # Fuelstation :fuelpump:
 
 Loopback project with mongoDB
