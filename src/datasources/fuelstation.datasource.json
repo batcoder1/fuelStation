@@ -1,0 +1,10 @@
+{
+  "name": "fuelstation",
+  "connector": "mongodb",
+  "url": "mongodb://user:user1956@ds123346.mlab.com:23346/fuelstation",
+  "host": "ds123346.mlab.com",
+  "port": 23346,
+  "user": "user",
+  "password": "user1956",
+  "database": "fuelstation"
+}
