@@ -1,5 +1,5 @@
-![loopback | 50%](https://loopback.io/images/branding/logo/blue/loopback.svg )
-![mongodb | 50%](./assets/logo-mongodb.png ){:height="50%" width="50%"}
+![loopback | 50%](https://loopback.io/images/branding/logo/blue/loopback.svg ) <!-- .element height="50%" width="50%" -->
+![mongodb | 50%](./assets/logo-mongodb.png)<!-- .element height="50%" width="50%" -->
 
 ![npm](https://img.shields.io/npm/v/npm.svg)
 # Fuelstation :fuelpump:
